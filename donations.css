@@ -1,0 +1,40 @@
+.main__container {
+	margin: 0;
+	padding: 0;
+	background-color: #22283e;
+	}
+
+	form {
+		width: 600px;
+		margin: 100px auto 0 auto;
+		padding: 20px;
+		box-shadow: 0 4px 8px 0 #30475e, 0 4px 8px 0 #30457e;
+	}
+
+	h1 {
+		text-align: center;
+		background-color: #141414;
+	}
+
+	.box1 {
+		width: 100%;
+		padding: 10px;
+		border: none;
+		border-radius: 15px;
+		box-sizing: border-box;
+		margin: 10px 0 15px 0;
+		background-color: #30475e;
+	}
+
+	.div1 {
+		display: inline-block;
+	}
+
+	.box2 {
+		padding: 10px;
+		border: none;
+		border-radius: 15px;
+		margin: 10px 0 15px 0;
+		background-color: #30475e;
+	}
+}
